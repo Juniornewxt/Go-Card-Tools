@@ -6,6 +6,6 @@ Boa sorte!
 :) 
 
 100% Go
+![image](https://github.com/Juniornewxt/Go-Card-Tools/assets/55773021/31e3fd72-a474-4c27-8b0c-332f07883bc8)
 
-                  ![image](https://github.com/Juniornewxt/Go-Card-Tools/assets/55773021/67b05d73-8d16-41a6-af0f-bda0cb6af887)
 
